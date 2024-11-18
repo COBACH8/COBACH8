@@ -1,0 +1,15 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Gray-C": "#9e9e9eff",
+    "Proton-C": "#9575cdff"
+  },
+  "highlighterOrder": [
+    "Gray-C",
+    "Proton-C"
+  ],
+  "menuMode": "normal",
+  "cleanSelectors": [],
+  "overwriteMarks": true
+}

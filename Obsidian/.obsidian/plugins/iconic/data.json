@@ -1,0 +1,73 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "mobile",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "mobile",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Clippings": {
+      "color": "#ff0000",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Clippings/Rss": {
+      "icon": "lucide-rss",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Clippings/Torrents": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Obsidian/Mis notas": {
+      "icon": "lucide-notebook-pen",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Personal": {
+      "icon": "lucide-square-user",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Personal/Cas Mutua": {
+      "icon": "lucide-alarm-plus",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Personal/Juzgado": {
+      "icon": "lucide-warehouse",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ]
+    },
+    "Tablero": {
+      "icon": "lucide-text",
+      "unsynced": [
+        "/storage/emulated/0/Documents/Obsidian"
+      ],
+      "color": "#ff0000"
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}
