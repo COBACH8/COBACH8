@@ -1,1 +1,1 @@
-- [ ] 6150€ Alexander
+- [ ] 150€ Alexander
