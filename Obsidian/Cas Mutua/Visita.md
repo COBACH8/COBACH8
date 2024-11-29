@@ -1,1 +1,1 @@
-- [ ] 
+- [ ] Recoger meta #Inportante 
