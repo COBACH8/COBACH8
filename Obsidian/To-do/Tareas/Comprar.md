@@ -1,1 +1,2 @@
 - [x] Estufa eléctrica 
+- [ ] 
