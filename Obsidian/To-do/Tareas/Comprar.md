@@ -1,4 +1,0 @@
-- [x] Estufa eléctrica 
----
-
-
