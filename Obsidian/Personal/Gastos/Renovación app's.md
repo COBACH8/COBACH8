@@ -1,5 +1,5 @@
 ---
-banner: "![[Notion Header 65.png]]"
+banner:
 ---
 ![[Notion Header 65.png]]
 
