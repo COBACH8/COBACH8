@@ -1,1 +1,1 @@
-- [ ] Arreglar pepe#Inportante 
+- [ ] Arreglar pepeles #Inportante 
