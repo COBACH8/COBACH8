@@ -1,4 +1,4 @@
 ---
-banner: "![[Notion Header 640.png]]"
+banner:
 ---
 ![[Notion Header 640.png]]
