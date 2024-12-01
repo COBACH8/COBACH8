@@ -1,6 +1,6 @@
 ---
 banner_icon: 💥
-title: Ukkk
+title: "![[Notion Header 640 6.png]]"
 banner_lock: true
 ---
 ![[Notion Header 640 6.png]]
