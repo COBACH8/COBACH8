@@ -1,3 +1,6 @@
+---
+banner: "![[Notion Header 65.png]]"
+---
 ![[Notion Header 65.png]]
 
 
