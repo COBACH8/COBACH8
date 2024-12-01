@@ -1,5 +1,5 @@
 ---
-banner: "![[b0f06984b60c14d23c3ed63dd6c93694.jpg]]"
+banner: "![[Notion Header 640.png]]"
 banner_x: 0.5
 ---
 - [ ] Banco Sabadell 
