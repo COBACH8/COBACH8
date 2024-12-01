@@ -1,5 +1,5 @@
 ---
-banner: "![[Notion Header 640.png]]"
+banner: "![[Header 640.png]]"
 ---
 Windy 27/Octubre/2024
 
