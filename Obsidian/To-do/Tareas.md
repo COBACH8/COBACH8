@@ -5,5 +5,5 @@ banner_lock: true
 ---
 - [ ] Banco Sabadell 
 - [ ] Cas Mutua (recoger)
-- [ ] Juzgado (firmar)
+- [x] Juzgado (firmar)
 
