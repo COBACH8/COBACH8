@@ -1,5 +1,5 @@
 ---
-banner: "![[Screenshot_20241204_042535_Gallery.jpg]]"
+banner: "![[Header 2.jpg]]"
 banner_x: 0.5
 banner_lock: true
 ---
