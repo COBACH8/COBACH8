@@ -1,4 +1,4 @@
 ---
-banner: "![[Header 3.jpeg]]"
+banner: "![[Header 2.jpg]]"
 ---
 - [ ] Arreglar pepeles #Inportante 
