@@ -1,1 +1,0 @@
-![[Screenshot_20241204_042535_Gallery.jpg]]
