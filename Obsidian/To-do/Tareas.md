@@ -5,5 +5,5 @@ banner_lock: true
 ---
 - [ ] Banco Sabadell 
 - [ ] Cas Mutua (pedir papeles
-- [x] Juzgado (firmar)
+
 
