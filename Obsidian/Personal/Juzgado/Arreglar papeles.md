@@ -1,6 +1,7 @@
 ---
 banner: "![[Header  1.png]]"
 ---
-<mark class="hltr-proton-c">Mutua</mark> #Inportante 
+*Cas Mutua *#Inportante 
 
-- [ ] Solicitar papeles para el juicio. Organizar carpeta con documentos relacionados. 
+- [ ] Solicitar papeles para el juicio. Organizar carpeta con documentos relacionados 
+- [ ] 
