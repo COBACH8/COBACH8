@@ -5,4 +5,4 @@ banner_lock: true
 ---
 - [ ] Banco Sabadell 
 - [ ] Cas Mutua (pedir papeles) 
-- [ ] Comprar garabe (Danko)
+- [ ] Comprar jarabe (Danko)
