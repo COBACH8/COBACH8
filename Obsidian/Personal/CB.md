@@ -1,2 +1,2 @@
 <mark class="hltr-proton-c">Horario</mark>
-Horario 
+Horario <mark class="hltr-proton-c"></mark>
