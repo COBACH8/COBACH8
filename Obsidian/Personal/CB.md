@@ -1,4 +1,4 @@
 
 > [!important]
->Horario 8:30/18:30 Lunes a jueves. 
+>Horario de 8:30 a 18:30 de lunes a jueves. 
 
