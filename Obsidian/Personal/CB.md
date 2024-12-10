@@ -1,1 +1,1 @@
-<mark class="hltr-proton-c">Horario</mark>  hjk 
+<mark class="hltr-proton-c">Horario</mark>  8:30 a 18:30 
