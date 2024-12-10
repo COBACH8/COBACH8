@@ -1,1 +1,1 @@
-<mark class="hltr-proton-c">Horario</mark>  <mark class="hltr-proton-c">de </mark>:30 a 18:30 
+<mark class="hltr-proton-c">Horario</mark>  <mark class="hltr-proton-c">de mañana </mark>:30 a 18:30 
