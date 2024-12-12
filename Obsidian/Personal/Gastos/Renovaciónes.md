@@ -1,5 +1,5 @@
 ---
-banner: "![[Header 2.jpg]]"
+banner: "![[Header  1.png]]"
 ---
 Windy 27/Octubre/2024
 
