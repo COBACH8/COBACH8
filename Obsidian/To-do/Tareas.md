@@ -6,3 +6,4 @@ banner_lock: true
 
 - [ ] Cas Mutua (pedir papeles) 
 - [ ] Comprar jarabe (Danko)
+- [ ] Cartilla
