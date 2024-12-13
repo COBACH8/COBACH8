@@ -1,16 +1,6 @@
-4
+
 
 #apuntes#gastos
-
-Cuentas
-
-69 words
-
-27-11-2024 18:23
-
-Saved
-
-  
 
 Julio/2024
 
