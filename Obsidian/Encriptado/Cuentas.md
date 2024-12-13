@@ -1,5 +1,4 @@
 
-
 #apuntes#gastos
 
 Julio/2024
