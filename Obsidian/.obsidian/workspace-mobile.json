@@ -11,14 +11,10 @@
             "id": "b3a7997069a9f1ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Sin título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -137,8 +133,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Complemento no activo"
         }
       }
     ],
