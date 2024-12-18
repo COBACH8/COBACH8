@@ -9,3 +9,11 @@
 
 Hjnnj
 
+```palette
+#8972e4
+#e47294
+#cde472
+#72e4c2
+{"aliases":["Base","Tetradic Second","Tetradic Third","Tetradic Fourth"]}
+```
+Klll
