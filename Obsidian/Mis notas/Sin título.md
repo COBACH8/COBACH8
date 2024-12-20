@@ -1,8 +1,8 @@
-_Pendiente_  
+  
   
 Ramón 60€  
 Abdel 5€  
-Alberto 40€  
+Alberto _Pendiente_40€  
 Xavi 10€  
 Omy 40€  
 Dany gemelo 5€
