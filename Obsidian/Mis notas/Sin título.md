@@ -1,1 +1,1 @@
-Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago doy mi yo se sienten ofendidos putosmtataos de mierda 
+Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago yo doy mi opinion sin menos preciar a nadie van y se sienten ofendidos putos mtataos de mierda! Mejor quedate en tu cueva de seguridad y no asomes la cabeza para eso 
