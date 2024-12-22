@@ -1,1 +1,1 @@
-Todo e
+Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago doy mi yo se sienten ofendidos putosmtataos de mierda 
