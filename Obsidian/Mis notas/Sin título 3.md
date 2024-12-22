@@ -1,1 +1,1 @@
-Bien aventurados aquellos que tienen la sangre fría siempre hablar mal de los demás así sin mas por tienen la patria y potestad
+Bien aventurados aquellos que tienen la sangre fría siempre hablar mal de los demás así sin mas por tienen la patria y potestad, no les digas nunca nada ellos siempre mejor
