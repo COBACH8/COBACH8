@@ -1,1 +1,1 @@
-Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago yo doy mi opinion sin menos preciar a nadie van y se sienten ofendidos putos mtataos de mierda! Mejor quedate en tu cueva de seguridad y no asomes la cabeza para eso 
+Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago yo doy mi opinion sin menos preciar a nadie van y se sienten ofendidos putos mtataos de mierda! Ya no me debajo mas  Mejor quedate en tu cueva de seguridad y no asomes la cabeza para eso 
