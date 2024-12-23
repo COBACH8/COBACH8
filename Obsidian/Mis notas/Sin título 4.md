@@ -1,3 +1,3 @@
-Todo el mundo hablando de todo y dando sus opiniones y a la que lo hago yo doy mi opinion sin menos preciar a nadie, van y se sienten ofendidos los putos mataos de mierda. No me quiero rebajar si te sientes poca cosa es tu problema si tienes la necesidad de menospreciarme a mi delante de los demas para asi darte inportancia tu creyéndote que eso te hace mas y mejor y mas fuerte que yo y el resto es tu prolema. Mi consejo es que para  hacer eso mejor que no te focalices en mi y quedate en tu cueva de seguridad hazlo fácil para ti, te sentirás mejor contigo mismo.
+Bien aventurados aquellos que siempre tienen la sangre fría para  hablar mal de los demás así sin más por que tienen la patria y potestad, no les digas nunca nada a ellos siempre te diran he aqui estoy yo y yo soy mejor que los demás. Llevan por bandera el carácter y la personalidad son siempre dignos ya tu sabes ellos son perfectos están ellos y después somos los demás. 
 
-Todo desde mi humilde opinion. 
+Jajaja aquí te lo dejo sopla pollas que eres eres un sopla pollas. 
