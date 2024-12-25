@@ -1,1 +1,1 @@
-Maldita sea hoy en dia cualquiera puede hacerse el gallito criticar y hacerse el duro si tiene una cuenta hecha en una red social, en mi época si querias demostrar que los tenias bien puestos lo tenias que hacer con hechos. 
+Maldita sea hoy en dia cualquiera puede hacerse el gallito criticandor y hacerse el duro si tiene una cuenta hecha en una red social, en mi época si querias demostrar que los tenias bien puestos lo tenias que hacer con hechos. 
