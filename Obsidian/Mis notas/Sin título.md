@@ -1,1 +1,1 @@
-Unos te ven como a un rival otros simplemente odian por quien eres ante los demás, es por eso que ante lo que para ellos es un momento de vulnerabilidad trataran de hacértela creyendo que eso los va a volver más fuertes cuando en realidad los débiles son ellos. 
+Unos te ven como a un rival otros simplemente odian por quien eres ante los demás, es por eso que en lo que para ellos es un momento de vulnerabilidad trataran de hacértela creyendo que eso los va a volver más fuertes cuando en realidad los débiles son ellos. 
